@@ -59,12 +59,19 @@ Visit http://127.0.0.1:8000/ in your browser to access the app.
 
 ### **📁 Directory Structure**
 Diabetes-Prediction/
+
 ├── DiabetesPrediction/     # Django app folder
+
 ├── templates/              # HTML templates
+
 ├── static/                 # Static files (images, CSS)
+
 ├── db.sqlite3              # SQLite database
+
 ├── diabetes.ipynb          # Jupyter notebook (model training)
+
 ├── manage.py               # Django project manager
+
 └── requirements.txt        # Python dependencies
 
 ---
