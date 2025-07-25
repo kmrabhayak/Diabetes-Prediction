@@ -57,7 +57,7 @@ Visit http://127.0.0.1:8000/ in your browser to access the app.
 
 ---
 
-##**📁 Directory Structure**
+###**📁 Directory Structure**
 Diabetes-Prediction/
 ├── DiabetesPrediction/     # Django app folder
 ├── templates/              # HTML templates
@@ -69,10 +69,10 @@ Diabetes-Prediction/
 
 ---
 
-##**👨‍💻 Author**
+###**👨‍💻 Author**
 Created with care by Abhay Kumar  🔗 GitHub 🔗 LinkedIn
 
 ---
 
-##**📄 License**
+###**📄 License**
 This project is licensed under the MIT License. See the LICENSE file for more details.
