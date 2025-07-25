@@ -45,6 +45,7 @@ source diabetesenv/bin/activate
 
 # Install required libraries
 pip install -r requirements.txt
+```
 
 ---
 
@@ -69,7 +70,7 @@ Diabetes-Prediction/
 ---
 
 ##**👨‍💻 Author**
-Created with care by Abhay Kumar 📬 ak24nov2002@gmail.com 🔗 GitHub 🔗 LinkedIn
+Created with care by Abhay Kumar  🔗 GitHub 🔗 LinkedIn
 
 ---
 
